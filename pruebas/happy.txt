@@ -1,0 +1,5 @@
+Pelicula,Duracion
+control, 120
+rocky,110
+start war,20
+terminator,84

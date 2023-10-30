@@ -1,0 +1,11 @@
+nombre_cliente,nombre_producto,direccion_envio,precio_unitario,descuento
+Joaquin,Zapato,Ciudad del Este,160,0.25
+Rogelio,Termo,Encarnacion,20,0.1
+Ivonne,Pulsera,Buenos Aires,5,0.05
+Gianluca,Jugo,Misiones,3,0.5
+Ivan,Zapato,Paraguari,16,0.15
+Andres,Collar,Montevideo,500,0.35
+Paulo,Mouse,Asuncion,50,0.75
+Jeronimo,Teclado,Boqueron,40,0.05
+Cinthia,Notebook,Brasilia,1000,0.1
+Maria,Lego,Concepcion,365,0.12
